@@ -17,6 +17,9 @@ namespace WinQuestion
             InitializeComponent();
         }
         // Проверочка как работает репозюторючка от Гитхабчика
+         // Проверочка как работает репозюторючка от Гитхабчика
+          // Проверочка как работает репозюторючка от Гитхабчика
+           // Проверочка как работает репозюторючка от Гитхабчика
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (textBox1.Text == "Привет" || textBox1.Text == "Здарова" || textBox1.Text == "Ку")
